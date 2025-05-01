@@ -19,13 +19,13 @@ jobs:
         dotnet-version: '9.0.x'
 
     - name: Restore dependencies
-      run: dotnet restore ./VulCore/VulCore/VulCore.csproj
+      run: dotnet restore ./Vulcore/Vulcore/Vulcore.csproj
 
     - name: Build
-      run: dotnet build  ./VulCore/VulCore/VulCore.csproj --configuration Release --no-restore
+      run: dotnet build  ./Vulcore/Vulcore/Vulcore.csproj --configuration Release --no-restore
 
     - name: Pack
-      run: dotnet pack ./VulCore/VulCore/VulCore.csproj  --configuration Release --no-build -o ./nupkg
+      run: dotnet pack ./Vulcore/Vulcore/Vulcore.csproj  --configuration Release --no-build -o ./nupkg
 
     - name: Publish to NuGet
       run: dotnet nuget push ./nupkg/*.nupkg --api-key ${{ secrets.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json
