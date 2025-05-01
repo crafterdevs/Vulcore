@@ -13,11 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Crafter Devs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Bu paket CrafterDevs için geliştirilmiştir.")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+893fda465bc09dc0c7dfc108cdb99ab78662b909")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.3.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.3+3dd63d908ab267f28801d04efba03773ca3d9413")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vulcore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vulcore")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.3.0")]
 [assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/crafterdevs/Vulcore")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
 	  
 	<PackageId>VulCore</PackageId>
-	<Version>1.0.2</Version>
+	<Version>1.0.3</Version>
 	<Authors>Crafter Devs</Authors>
 	<Company>Crafter Devs</Company>
 	<Description>Bu paket CrafterDevs için geliştirilmiştir.</Description>
