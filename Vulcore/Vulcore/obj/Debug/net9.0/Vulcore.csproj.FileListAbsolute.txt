@@ -1,0 +1,16 @@
+C:\Users\abdbl\OneDrive\Belgeler\GitHub\Vulcore\Vulcore\Vulcore\bin\Debug\net9.0\Vulcore.deps.json
+C:\Users\abdbl\OneDrive\Belgeler\GitHub\Vulcore\Vulcore\Vulcore\bin\Debug\net9.0\Vulcore.dll
+C:\Users\abdbl\OneDrive\Belgeler\GitHub\Vulcore\Vulcore\Vulcore\bin\Debug\net9.0\Vulcore.pdb
+C:\Users\abdbl\OneDrive\Belgeler\GitHub\Vulcore\Vulcore\Vulcore\bin\Debug\net9.0\Vulcore.Domain.dll
+C:\Users\abdbl\OneDrive\Belgeler\GitHub\Vulcore\Vulcore\Vulcore\bin\Debug\net9.0\Vulcore.Domain.pdb
+C:\Users\abdbl\OneDrive\Belgeler\GitHub\Vulcore\Vulcore\Vulcore\obj\Debug\net9.0\Vulcore.csproj.AssemblyReference.cache
+C:\Users\abdbl\OneDrive\Belgeler\GitHub\Vulcore\Vulcore\Vulcore\obj\Debug\net9.0\Vulcore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdbl\OneDrive\Belgeler\GitHub\Vulcore\Vulcore\Vulcore\obj\Debug\net9.0\Vulcore.AssemblyInfoInputs.cache
+C:\Users\abdbl\OneDrive\Belgeler\GitHub\Vulcore\Vulcore\Vulcore\obj\Debug\net9.0\Vulcore.AssemblyInfo.cs
+C:\Users\abdbl\OneDrive\Belgeler\GitHub\Vulcore\Vulcore\Vulcore\obj\Debug\net9.0\Vulcore.csproj.CoreCompileInputs.cache
+C:\Users\abdbl\OneDrive\Belgeler\GitHub\Vulcore\Vulcore\Vulcore\obj\Debug\net9.0\Vulcore.sourcelink.json
+C:\Users\abdbl\OneDrive\Belgeler\GitHub\Vulcore\Vulcore\Vulcore\obj\Debug\net9.0\Vulcore.csproj.Up2Date
+C:\Users\abdbl\OneDrive\Belgeler\GitHub\Vulcore\Vulcore\Vulcore\obj\Debug\net9.0\Vulcore.dll
+C:\Users\abdbl\OneDrive\Belgeler\GitHub\Vulcore\Vulcore\Vulcore\obj\Debug\net9.0\refint\Vulcore.dll
+C:\Users\abdbl\OneDrive\Belgeler\GitHub\Vulcore\Vulcore\Vulcore\obj\Debug\net9.0\Vulcore.pdb
+C:\Users\abdbl\OneDrive\Belgeler\GitHub\Vulcore\Vulcore\Vulcore\obj\Debug\net9.0\ref\Vulcore.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vulcore", "Vulcore\Vulcore.csproj", "{4625D7DF-9C87-4B3E-B86C-524F06C07B19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vulcore.Domain", "Vulcore.Domain\Vulcore.Domain.csproj", "{20E049FB-A217-4675-8555-42BB9AD4EA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4625D7DF-9C87-4B3E-B86C-524F06C07B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4625D7DF-9C87-4B3E-B86C-524F06C07B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4625D7DF-9C87-4B3E-B86C-524F06C07B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4625D7DF-9C87-4B3E-B86C-524F06C07B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E049FB-A217-4675-8555-42BB9AD4EA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E049FB-A217-4675-8555-42BB9AD4EA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E049FB-A217-4675-8555-42BB9AD4EA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E049FB-A217-4675-8555-42BB9AD4EA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0315C2A1-DB9F-4968-985C-D6C1630CAF0E}
+	EndGlobalSection
+EndGlobal
