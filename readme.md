@@ -1,3 +1,2 @@
 Crafter Devs
 
-product description
