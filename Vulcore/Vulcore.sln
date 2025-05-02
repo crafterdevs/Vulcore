@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vulcore", "Vulcore\Vulcore.csproj", "{D5CB24FF-64D4-45FF-80DA-3CC17A6C63BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VulCore.Example", "VulCore.Example\VulCore.Example.csproj", "{94BF2AC5-6E35-4155-975B-A100FEAD0969}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5CB24FF-64D4-45FF-80DA-3CC17A6C63BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CB24FF-64D4-45FF-80DA-3CC17A6C63BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CB24FF-64D4-45FF-80DA-3CC17A6C63BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CB24FF-64D4-45FF-80DA-3CC17A6C63BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94BF2AC5-6E35-4155-975B-A100FEAD0969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94BF2AC5-6E35-4155-975B-A100FEAD0969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94BF2AC5-6E35-4155-975B-A100FEAD0969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94BF2AC5-6E35-4155-975B-A100FEAD0969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

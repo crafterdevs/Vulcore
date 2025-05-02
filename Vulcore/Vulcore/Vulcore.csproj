@@ -4,19 +4,18 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  
-	<PackageId>VulCore</PackageId>
-	<Version>1.0.6</Version>
-	<Authors>Crafter Devs</Authors>
-	<Company>Crafter Devs</Company>
-	<Description>Bu paket CrafterDevs için geliştirilmiştir.</Description>
-	<PackageTags>core;base;simple</PackageTags>
-	<PackageProjectUrl>https://github.com/crafterdevs/Vulcore</PackageProjectUrl>
-	<RepositoryUrl>https://github.com/crafterdevs/Vulcore</RepositoryUrl>
-	<RepositoryType>git</RepositoryType>
-	<PackageLicenseExpression>MIT</PackageLicenseExpression>
-	<PackageReadmeFile>readme.md</PackageReadmeFile>
-	<Title>VulCore</Title>
+    <PackageId>VulCore-demo</PackageId>
+    <Title>VulCore-title</Title>
+    <Version>1.0.3</Version>
+    <Authors>CrafterDevs</Authors>
+    <Company>CrafterDevs</Company>
+    <Description>Crafter Devs tarafından test için geliştirilmiştir.</Description>
+    <PackageReadmeFile>readme.md</PackageReadmeFile>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>demo;crafterdevs</PackageTags>
+    <AssemblyVersion>1.0.1</AssemblyVersion>
+    <FileVersion>1.0.1</FileVersion>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>

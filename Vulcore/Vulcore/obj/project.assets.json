@@ -12,10 +12,10 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.6",
+    "version": "1.0.3",
     "restore": {
       "projectUniqueName": "C:\\Users\\abdbl\\OneDrive\\Belgeler\\GitHub\\Vulcore\\Vulcore\\Vulcore\\Vulcore.csproj",
-      "projectName": "VulCore",
+      "projectName": "VulCore-demo",
       "projectPath": "C:\\Users\\abdbl\\OneDrive\\Belgeler\\GitHub\\Vulcore\\Vulcore\\Vulcore\\Vulcore.csproj",
       "packagesPath": "C:\\Users\\abdbl\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\abdbl\\OneDrive\\Belgeler\\GitHub\\Vulcore\\Vulcore\\Vulcore\\obj\\",

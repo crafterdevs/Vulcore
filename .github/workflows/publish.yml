@@ -18,6 +18,12 @@ jobs:
       with:
         dotnet-version: '9.0.x'
 
+    # - name: Restore dependencies
+    #   run: dotnet restore ./Vulcore/Vulcore.Tests/Vulcore.Tests.csproj
+
+    # - name: Test
+    #   run: dotnet test ./Vulcore/Vulcore.Tests/Vulcore.Tests.csproj --no-build --verbosity normal
+
     - name: Restore dependencies
       run: dotnet restore ./Vulcore/Vulcore/Vulcore.csproj
 
@@ -25,7 +31,7 @@ jobs:
       run: dotnet build  ./Vulcore/Vulcore/Vulcore.csproj --configuration Release --no-restore
 
     - name: Pack
-      run: dotnet pack ./Vulcore/Vulcore/Vulcore.csproj /p:IncludeReferencedProjects=true --configuration Release -o nupkg
+      run: dotnet pack ./Vulcore/Vulcore/Vulcore.csproj  --configuration Release -o nupkg
 
     - name: Publish to NuGet
       run: dotnet nuget push ./nupkg/*.nupkg --api-key ${{ secrets.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json

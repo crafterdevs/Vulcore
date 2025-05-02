@@ -6,31 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "Vulcore/1.0.4": {
-        "dependencies": {
-          "Vulcore.Domain": "1.0.0"
-        },
+      "Vulcore/1.0.3": {
         "runtime": {
           "Vulcore.dll": {}
-        }
-      },
-      "Vulcore.Domain/1.0.0": {
-        "runtime": {
-          "Vulcore.Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
         }
       }
     }
   },
   "libraries": {
-    "Vulcore/1.0.4": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Vulcore.Domain/1.0.0": {
+    "Vulcore/1.0.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
