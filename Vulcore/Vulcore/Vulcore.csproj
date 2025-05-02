@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <PackageId>VulCore-demo</PackageId>
     <Title>VulCore-title</Title>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
     <Authors>CrafterDevs</Authors>
     <Company>CrafterDevs</Company>
     <Description>Crafter Devs tarafından test için geliştirilmiştir.</Description>
