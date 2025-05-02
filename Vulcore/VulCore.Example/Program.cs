@@ -6,5 +6,6 @@ var product = new Product
 {
     Name = "1",
     Description = "asd",
-    Count = 1
+    Count = 1,
+    CategoryId =1
 };
