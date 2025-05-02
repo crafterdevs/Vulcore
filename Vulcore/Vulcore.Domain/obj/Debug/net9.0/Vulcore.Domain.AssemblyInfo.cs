@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vulcore.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7038899c322ae1d5bfede3492bac9057727c6b4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90258bc19dfde0183fa573501fc519f273adb1f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vulcore.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vulcore.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

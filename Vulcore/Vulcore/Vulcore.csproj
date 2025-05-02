@@ -26,9 +26,4 @@
     </None>
   </ItemGroup>
 
-	
-  <ItemGroup>
-    <ProjectReference Include="..\Vulcore.Domain\Vulcore.Domain.csproj" />
-  </ItemGroup>
-
 </Project>

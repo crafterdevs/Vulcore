@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Bu paket CrafterDevs için geliştirilmiştir.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.6.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.6+7038899c322ae1d5bfede3492bac9057727c6b4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.6+90258bc19dfde0183fa573501fc519f273adb1f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vulcore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vulcore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.6.0")]
